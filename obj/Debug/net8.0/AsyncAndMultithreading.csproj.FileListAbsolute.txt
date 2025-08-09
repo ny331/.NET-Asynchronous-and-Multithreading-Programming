@@ -1,0 +1,14 @@
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\bin\Debug\net8.0\AsyncAndMultithreading.exe
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\bin\Debug\net8.0\AsyncAndMultithreading.deps.json
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\bin\Debug\net8.0\AsyncAndMultithreading.runtimeconfig.json
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\bin\Debug\net8.0\AsyncAndMultithreading.dll
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\bin\Debug\net8.0\AsyncAndMultithreading.pdb
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.AssemblyInfoInputs.cache
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.AssemblyInfo.cs
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.dll
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\refint\AsyncAndMultithreading.dll
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.pdb
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\AsyncAndMultithreading.genruntimeconfig.cache
+C:\Users\nayan_raval\source\repos\AsyncAndMultithreading\obj\Debug\net8.0\ref\AsyncAndMultithreading.dll

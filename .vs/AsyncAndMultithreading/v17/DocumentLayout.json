@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|c:\\users\\nayan_raval\\source\\repos\\asyncandmultithreading\\services\\cpuboundasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|solutionrelative:services\\cpuboundasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|c:\\users\\nayan_raval\\source\\repos\\asyncandmultithreading\\services\\asyncioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|solutionrelative:services\\asyncioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|c:\\users\\nayan_raval\\source\\repos\\asyncandmultithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384317B4-1197-457E-A419-13B80440B7DD}|AsyncAndMultithreading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPUboundAsync.cs",
+              "DocumentMoniker": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Services\\CPUboundAsync.cs",
+              "RelativeDocumentMoniker": "Services\\CPUboundAsync.cs",
+              "ToolTip": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Services\\CPUboundAsync.cs",
+              "RelativeToolTip": "Services\\CPUboundAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:41:54.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncIOService.cs",
+              "DocumentMoniker": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Services\\AsyncIOService.cs",
+              "RelativeDocumentMoniker": "Services\\AsyncIOService.cs",
+              "ToolTip": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Services\\AsyncIOService.cs",
+              "RelativeToolTip": "Services\\AsyncIOService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:41:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nayan_raval\\source\\repos\\AsyncAndMultithreading\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:39:42.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
